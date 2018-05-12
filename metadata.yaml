@@ -1,0 +1,29 @@
+_repo: La-quaderna-di-NanniLe-Commedie-vol.-1_46297
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46297-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carrera, Valentino
+    birthdate: 1834
+    deathdate: 1895
+    gutenberg_agent_id: '43704'
+    url: http://www.gutenberg.org/2009/agents/43704
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46297'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama -- 19th century'
+- !lcc 'PQ'
+title: 'La quaderna di Nanni
+
+  Le Commedie, vol. 1'
+url: http://www.gutenberg.org/ebooks/46297
